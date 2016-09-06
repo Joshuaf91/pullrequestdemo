@@ -1,4 +1,7 @@
-Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+Name: Joshua Fermin
+D.O.B: 10/24/1991
+SS- 123-45-6789
+Address: 1234 anywhere st new york, new york, 11368
+ Favorite Movie: land before time i
+ Favorite Food: pizza
+ Favorite Candy: N/A
